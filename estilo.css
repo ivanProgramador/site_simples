@@ -1,0 +1,36 @@
+
+body{
+
+
+    background: #FFF1D6 url(./imagens/n.png);
+
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,Sans-serif;
+	line-height: 1.6;
+
+}
+
+
+.container{
+
+	margin: 0 auto;
+	width: 960px;
+}
+
+.place{
+
+    background-color: #fff;
+
+	border-color: #ccc #999 #ccc;
+
+	border: 1px solid #ccc;
+    
+    margin-bottom: 20px;
+
+	padding: 10px;
+
+}
+.place h2{
+
+	border-bottom: 1px dashed #7E9F19;
+	margin: 0;
+}
